@@ -13,14 +13,23 @@ Automate EC2 configuration using a User Data script.
 **Provisioned Components**
 
 VPC with custom CIDR
+
 Public subnet for EC2
+
 Private subnet for RDS
+
 Internet Gateway for public internet access
+
 Route table for public subnet
+
 Security groups:
+
 EC2: Allows HTTP from the internet
+
 RDS: Allows MySQL access only from EC2
+
 EC2 Instance with user data script to auto-install web server
+
 RDS MySQL DB Instance in a private subnet
 
 
