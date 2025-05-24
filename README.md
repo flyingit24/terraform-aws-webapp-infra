@@ -1,7 +1,9 @@
 **Project:** Web App Infra on AWS with Terraform
+
 In this project we aimed a simple and secure web application infrastructure on AWS using Terraform. It includes a web server hosted on an EC2 instance in a public subnet and a MySQL RDS database in a private subnet. 
 
 **Project Goals**
+
 Deploy a basic web server and database infrastructure using Terraform.
 Ensure proper network isolation and access controls using public/private subnets and security groups.
 Automate EC2 configuration using a User Data script.
