@@ -5,7 +5,7 @@ In this project we aimed a simple and secure web application infrastructure on A
 **Project Goals**
 
 Deploy a basic web server and database infrastructure using Terraform.
-Ensure proper network isolation and access controls using public/private subnets and security groups.
+with network isolation and access controls using public/private subnets and security groups.
 Automate EC2 configuration using a User Data script.
 
 **Architecture Overview**
