@@ -3,7 +3,7 @@
 
 In this project, we aimed to build a simple yet secure infrastructure on AWS using Terraform to create an environment where a web server connects to a backend database.
 
-**Step 1:** Setting the Foundation – VPC and Subnets
+**Step 1:** Setting – VPC and Subnets
 We started by creating a Virtual Private Cloud (VPC), which acts like a private network inside AWS. Within this VPC, we created:
 
 A public subnet to host a web server (EC2), so it can be accessed from the internet.
